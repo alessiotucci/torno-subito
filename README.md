@@ -1,26 +1,29 @@
 # torno-subito
 torno subito is a fund by European Union to help youth find occupation, I was able to join a bootcamp to expand my skills 
-
-## Ubiquitous language:
-
-Ubiquitous language is a concept in software development where all members of a development team use a common, shared language specific to the business domain. It helps to improve communication and understanding between stakeholders and developers.
-
-## Application life cycle management:
-
-Application life cycle management (ALM) refers to the process of managing software applications from their inception to retirement. It involves activities such as requirements management, development, testing, deployment, and maintenance. ALM helps ensure efficient and effective management of the entire software development life cycle.
-
-## Waterfall:
-
-Waterfall is a traditional software development methodology that follows a sequential, linear approach. It consists of distinct phases like requirements gathering, design, development, testing, and deployment. Each phase is completed before moving on to the next. Waterfall is known for its structured nature but can be less adaptable to changes.
-
-## Agile mindset:
-
-Agile mindset is a set of values, principles, and practices that promote flexibility, collaboration, and adaptability in software development. It emphasizes iterative and incremental development, customer collaboration, and quick response to change. The Agile mindset values individuals and interactions over processes and tools.
-
-## Lean:
-
-Lean is a methodology that focuses on minimizing waste and maximizing value in a process. It originated from manufacturing practices but has been applied to software development as well. Lean principles aim to eliminate activities that do not add value to the end product, reduce unnecessary steps, and improve overall efficiency.
-
-## Communication Protocol (HTTP, WebSocket):
-
-Communication protocols are rules and standards that enable communication between different systems. HTTP (Hypertext Transfer Protocol) is a protocol used for transmitting web pages and data over the internet. WebSocket is a protocol that provides full-duplex communication between a client and a server, allowing real-time data exchange.
+| function name | Description |
+|---------------|--------------|
+| Giugno 16 | Strumenti di coding 1 |
+| Giugno 17 | Strumenti di team management |
+| Giugno 23 | Framework |
+| Giugno 24 | Stack Microsoft per web coding|
+| Giugno 30 | Javascript, HTML5, CSS3|
+| Luglio 01 | Database relazionali|
+| Luglio 07 | ORM (entity framework)|
+| Luglio 08 | SQL Server e Cosmos DB|
+| Luglio 14 | C# Advanced -1|
+| Luglio 15 | C# Advanced -2|
+| Luglio 21 | Servizi SOAP & REST|
+| Luglio 28 | Strumenti di coding 1|
+| Luglio 29 | Strumenti di coding 2|
+| Agosto 04 | Code management con Git 1|
+| Agosto 05 | Code management con Git 2|
+| Agosto 06 | Code management con Git 3|
+| Settembre 01 | Blazor Web Assembly 2|
+| Settembre 02 | Blazor Web Assembly 3|
+| Settembre 08 | Blazor Web Assembly 4|
+| Settembre 09 | Blazor Web Assembly 5|
+| Settembre 15 | Application Architecture 1|
+| Settembre 16 | Application Architecture 2|
+| Settembre 22 | Application Architecture 3|
+| Settembre 23 | Application Architecture 4|
+| Settembre 29 | Microsoft Power Platform 365|
