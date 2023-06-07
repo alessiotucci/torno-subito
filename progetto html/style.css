@@ -1,0 +1,21 @@
+/* this is a CSS COMMENT */
+
+body {
+    font-family: 'Franklin Gothic Medium';
+    background: wheat;
+    text-align: center;
+}
+
+
+.table td {
+
+   margin: 0 auto; 
+    font-size: 35px; /* Adjust the font size as desired */
+    
+}
+
+.testo {
+    padding: 1px;
+    margin: 0 auto;
+}
+
