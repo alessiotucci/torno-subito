@@ -4,7 +4,8 @@ torno subito is a fund by European Union to help youth find occupation, I was ab
 | day of the bootcamp | Description | Image |
 |---------------|--------------|------------|
 | Giugno 7: basic of html and CSS | [`progetto html coding a login page`](https://github.com/alessiotucci/torno-subito/tree/main/progetto%20html)| <img width="830" alt="image" src="https://github.com/alessiotucci/torno-subito/assets/116757689/38f9967f-9088-44fc-831c-8b552508ab03">
-|Giugno 8: using the framework of asp .net| [`progetto asp .net`]|
+|Giugno 8: using the framework of asp .net| [`progetto asp .net`]|<img width="464" alt="image" src="https://github.com/alessiotucci/torno-subito/assets/116757689/b917450b-fe0b-4f1e-aa39-2a0cec7dea16">
+|
 --------------------------------------------------------
 
 
