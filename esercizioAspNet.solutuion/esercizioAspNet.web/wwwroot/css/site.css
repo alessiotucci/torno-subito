@@ -1,0 +1,73 @@
+@font-face {
+    font-family: 'Fortnite';
+    src: url('fonts/fortnite.woff2') format('woff2'), url('fonts/fortnite.woff') format('woff');
+    /* Add additional formats if available */
+    /* Make sure to update the file paths accordingly */
+}
+
+html {
+  font-size: 14px;
+  background: yellow;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+    background: pink;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+    background: white;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+    background: wheat;
+}
+/* Additional styles for the text-center class */
+.text-center {
+    
+    text-align: center;
+}
+
+.privacy-page {
+    font-size: 24px;
+    text-align: center;
+}
+
+.custom-button {
+    background-color: #FF4081;
+    color: #FFFFFF;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease-in-out;
+}
+
+    .custom-button:hover {
+        background-color: #C51162;
+        cursor: pointer;
+        transform: scale(1.1);
+    }
+
+    .custom-button:active {
+        background-color: #880E4F;
+    }
+
+    .custom-button:focus {
+        outline: none;
+    }
+
+    .custom-button:disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
+    }
+
+

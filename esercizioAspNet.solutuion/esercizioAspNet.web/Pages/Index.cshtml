@@ -1,0 +1,53 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <img src="A&M.png">
+    <h1 class="display-4">ciao</h1>
+    <p>If you are bored check out <a href="https://pointerpointer.com/">this website</a>.</p>
+    <p>❤️ <strong>Otherwise keep loggin in </strong>❤️</p>
+   
+    
+    
+
+    
+    <form id="myForm" method="post" asp-page="Index">
+
+        <table class="table">
+            <tr>
+                <td class="testo" required style="font-size: 30px;">Inserisci le tue credenziali</td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="text" placeholder="username" name="username" required style="font-size: 40px;">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="password" placeholder="*******" name="password" required style="font-size: 40px;">
+                </td>
+            </tr>
+        </table>
+
+        <button type="submit" style="font-size: 35px;">Login</button>
+    </form> 
+    <script>
+        var form = document.getElementById("myForm");
+        form.addEventListener("submit", function (event) {
+            var username = document.getElementsByName("username")[0].value;
+            var password = document.getElementsByName("password")[0].value;
+
+            // Perform your validation logic here
+            if (username !== "username" || password !== "password") {
+                event.preventDefault(); // Prevent the form from being submitted
+                alert("Invalid username or password. Please try again.");
+            }
+            else
+                alert("congratulations, you insert a valid password");
+        });
+    </script>
+</div>
+

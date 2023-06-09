@@ -1,0 +1,28 @@
+﻿@page
+@model PrivacyModel
+@{
+    ViewData["Title"] = "Privacy Policy";
+
+}
+
+<div class="privacy-page">
+
+<h1>@ViewData["Title"]</h1>
+<link rel="stylesheet" href="~/css/site.css" />
+
+<p>Use this page to detail your site's privacy policy.</p>
+
+<img src="~/privacy.jpg"> <br />
+
+     <button id="acceptButton" class="btn btn-primary custom-button">Accept</button>
+
+    <script>
+        var button = document.getElementById("acceptButton");
+        button.addEventListener("click", function () {
+            // Display a popup
+            alert("this is just a pop up 😒");
+            window.location.href = "https://it.wikipedia.org/wiki/Privacy"; // Replace "https://example.com" with the desired link
+        });
+    </script>
+
+</div>
