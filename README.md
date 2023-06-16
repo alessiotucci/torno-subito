@@ -13,9 +13,9 @@ torno subito is a fund by European Union to help youth find occupation, I was ab
 
 
 
-| function name | Description |
-|---------------|--------------|
-| Giugno 16 | Strumenti di coding 1 |
+| function name | Description | video utils |
+|---------------|--------------|------------|
+| Giugno 16 | Strumenti di coding, json | ...| 
 | Giugno 17 | Strumenti di team management |
 | Giugno 23 | Framework |
 | Giugno 24 | Stack Microsoft per web coding|
