@@ -16,7 +16,7 @@ torno subito is a fund by European Union to help youth find occupation, I was ab
 | function name | Description | video utils |
 |---------------|--------------|------------|
 | Giugno 16 | Strumenti di coding, json | ...| 
-| Giugno 17 | Strumenti di team management |
+| Giugno 17 | Strumenti di team management |<img width="960" alt="image" src="https://github.com/alessiotucci/torno-subito/assets/116757689/3408683d-3238-48c5-990b-e66b95c612da">|
 | Giugno 23 | Framework |
 | Giugno 24 | Stack Microsoft per web coding|
 | Giugno 30 | Javascript, HTML5, CSS3|
