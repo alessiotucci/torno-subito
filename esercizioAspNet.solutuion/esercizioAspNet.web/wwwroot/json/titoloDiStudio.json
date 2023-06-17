@@ -1,0 +1,31 @@
+{
+  "titoliDiStudio": [
+    {
+      "ID": 0,
+      "voto": "84/100",
+      "indirizzo": "Scientifico"
+
+    },
+
+    {
+      "ID": 2,
+      "voto": "62/100",
+      "indirizzo": "Classico"
+
+    },
+
+    {
+      "ID": 3,
+      "voto": "89/100",
+      "indirizzo": "Alberghiero"
+
+    },
+
+    {
+      "ID": 4,
+      "voto": "100/100",
+      "indirizzo": "Linguistico"
+
+    }
+  ]
+}

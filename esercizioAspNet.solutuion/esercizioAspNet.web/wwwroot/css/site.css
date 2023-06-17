@@ -48,13 +48,13 @@ body {
     border: none;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-    transition: background-color 0.3s ease-in-out;
+    transition: background-color 1s ease-in-out;
 }
 
     .custom-button:hover {
         background-color: #C51162;
         cursor: pointer;
-        transform: scale(1.1);
+        transform:  scale(1.5);
     }
 
     .custom-button:active {
@@ -70,4 +70,173 @@ body {
         cursor: not-allowed;
     }
 
+    /* this is for the table delle sedi*/
 
+<style >
+#tab {
+    font-family: Calibri, sans-serif;
+    border-collapse: collapse;
+    outline: 5px solid black;
+    width: auto;
+    table-layout: auto;
+}
+
+#tab thead {
+    background-color: white;
+    outline: 5px solid black;
+    font-size: larger;
+    animation-name: coloretto;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+#tab th,
+#tab td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    outline: 1px solid black;
+}
+
+
+
+#tab tbody tr td:hover {
+    background-color: lightgoldenrodyellow;
+    transform: scale(1.51);
+}
+
+#tab td label {
+    display: block;
+}
+/* this is for the other  table*/
+#tabu {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#tabu th,
+#tabu td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid black;
+}
+
+#tabu th {
+  background-color: pink;
+}
+
+#tabu tbody tr:hover {
+        background-color: yellow;
+        transform: scale(1.51);
+    }
+
+/*I create a class for the hyperlink*/
+
+.linketto {
+    background-color: lightgreen;
+    color: #fff;
+    border-radius: 40px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transition: background-color 5.5s ease-in-out;
+    animation-name: coloretto;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+.linketto:hover{
+    background-color: lightblue;
+    transform: scale(1.99);
+}
+
+@keyframes coloretto {
+    0% {
+        background-color: lightblue;
+    }
+
+    25% {
+        background-color: lemonchiffon;
+    }
+
+    50% {
+        background-color: blue;
+    }
+
+    100% {
+        background-color: lime;
+    }
+}
+
+/*this is for the search box*/
+.search-box {
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    width: 500px;
+    border-radius: 4px;
+}
+
+    .search-box input {
+        flex-grow: 1;
+        border: none;
+        background-color: transparent;
+        padding: 5px;
+        font-size: 18px;
+    }
+
+    .search-box button {
+        background-color: #f8f8f8;
+        border: none;
+        padding: 6px 12px;
+        margin-left: 8px;
+        cursor: pointer;
+        font-size: 16px;
+        border-radius: 4px;
+    }
+
+        .search-box button:hover {
+            background-color: #e8e8e8;
+        }
+
+    .search-box input:focus {
+        outline: none;
+        border: none;
+        box-shadow: none;
+    }
+/* an other one*/
+
+.ricerca {
+    font-size: 12px;
+    width: 100%;
+    max-width: 400px;
+    border-collapse: collapse;
+}
+
+    .ricerca th,
+    .ricerca td {
+        padding: 4px 8px;
+        text-align: left;
+        border: 1px solid #ccc;
+    }
+
+    .ricerca th {
+        background-color: #f2f2f2;
+    }
+
+    .ricerca tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+
+@media (max-width: 600px) {
+    .ricerca {
+        font-size: 10px;
+    }
+
+        .ricerca th,
+        .ricerca td {
+            padding: 2px 4px;
+        }
+}
+
+
+</style >

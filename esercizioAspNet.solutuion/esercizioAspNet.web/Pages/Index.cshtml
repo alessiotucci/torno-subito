@@ -10,7 +10,23 @@
     <p>If you are bored check out <a href="https://pointerpointer.com/">this website</a>.</p>
     <p>❤️ <strong>Otherwise keep loggin in </strong>❤️</p>
    
-    
+    <div class="btn-group" role="group" aria-label="Basic example">
+
+        <button class="linketto btn btn-primary">
+            <a href="/Titoli">titoli di studio </a></strong>           <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-bar-chart-fill" viewBox="0 0 16 16">
+                <path d="M1 11a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1v-3zm5-4a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V7zm5-5a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1V2z" />
+            </svg>
+        </button>
+
+
+
+    <button class="linketto btn btn-primary"><a href="/Sedi">sedi delle aziende</a></>
+ 
+
+        </button>
+    </div>
+
+   
     
 
     
@@ -18,11 +34,18 @@
 
         <table class="table">
             <tr>
-                <td class="testo" required style="font-size: 30px;">Inserisci le tue credenziali</td>
+                <td class="testo" required style="font-size: 30px;">Inserisci le tue credenziali
+
+                    <svg xmlns="http://www.w3.org/2000/svg" width="30px" height="30px" fill="currentColor" class="bi bi-person" viewBox="0 0 16 16">
+                        <path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6Zm2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0Zm4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4Zm-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10c-2.29 0-3.516.68-4.168 1.332-.678.678-.83 1.418-.832 1.664h10Z" />
+                    </svg>
+
+                </td>
             </tr>
             <tr>
                 <td>
                     <input type="text" placeholder="username" name="username" required style="font-size: 40px;">
+
                 </td>
             </tr>
             <tr>
@@ -32,22 +55,38 @@
             </tr>
         </table>
 
-        <button type="submit" style="font-size: 35px;">Login</button>
+        <button type="submit" class="btn btn-primary custom-button">Login
+
+            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" class="bi bi-door-open" viewBox="0 0 16 16">
+                <path d="M8.5 10c-.276 0-.5-.448-.5-1s.224-1 .5-1 .5.448.5 1-.224 1-.5 1z" />
+                <path d="M10.828.122A.5.5 0 0 1 11 .5V1h.5A1.5 1.5 0 0 1 13 2.5V15h1.5a.5.5 0 0 1 0 1h-13a.5.5 0 0 1 0-1H3V1.5a.5.5 0 0 1 .43-.495l7-1a.5.5 0 0 1 .398.117zM11.5 2H11v13h1V2.5a.5.5 0 0 0-.5-.5zM4 1.934V15h6V1.077l-6 .857z" />
+            </svg>
+
+        </button>
     </form> 
     <script>
         var form = document.getElementById("myForm");
-        form.addEventListener("submit", function (event) {
+        form.addEventListener("submit", function (event)
+        {
             var username = document.getElementsByName("username")[0].value;
             var password = document.getElementsByName("password")[0].value;
 
             // Perform your validation logic here
-            if (username !== "username" || password !== "password") {
+            if (username !== "username" && password !== "password")
+            {
                 event.preventDefault(); // Prevent the form from being submitted
                 alert("Invalid username or password. Please try again.");
             }
             else
-                alert("congratulations, you insert a valid password");
-        });
+                RedirectToPage();
+        };
     </script>
 </div>
+
+
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+
+}
 

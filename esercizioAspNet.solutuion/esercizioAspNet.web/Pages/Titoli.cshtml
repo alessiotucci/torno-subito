@@ -1,0 +1,49 @@
+﻿@page
+@model titoliModel
+@using esercizioAspNet.web.model2
+
+@{
+    ViewData["Title"] = "Titoli";
+}
+
+<!-- Declare the page and specify its purpose -->
+<!-- The page directive is like a signpost indicating that this file represents a specific page within the Blazor application -->
+<!-- It tells the framework that this file is associated with a specific route or URL, just like a signpost directs people to a specific destination -->
+
+<!-- Define the model for the page -->
+<!-- The model directive is like a blueprint that defines the structure and behavior of the page -->
+<!-- It specifies the type of the model that the page expects to receive, just like a blueprint defines the type of building that will be constructed -->
+<!-- For example, if the model type is "titoliModel", the page expects to receive an instance of the "titoliModel" class, which contains the necessary data for the page -->
+
+<!-- Import the required namespace -->
+<!-- The using directive is like a bridge that connects the page with the necessary resources -->
+<!-- It imports the namespace that contains the definitions for the types used in the page, just like a bridge connects two separate areas -->
+<!-- For example, if the page uses the "esercizioAspNet.web.model2" namespace, the using directive ensures that the types defined in that namespace are accessible within the page -->
+
+
+<table id="tab">
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>Voto maturita</th>
+        <th>Indirizzo</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model.Lista)
+    {
+        <!-- Loop through each item in the "Lista" property of the model -->
+
+        <tr>
+            <td><label>@item.ID</label></td>
+            <!-- Display the "ID" property of the current item -->
+
+            <td><label>@item.voto</label></td>
+            <!-- Display the "voto" property of the current item -->
+
+            <td><label>@item.indirizzo</label></td>
+            <!-- Display the "indirizzo" property of the current item -->
+        </tr>
+    }
+    </tbody>
+</table>

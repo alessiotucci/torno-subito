@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0lcoG5NzDFF5aCK/C4drnRgvhLFTsDUUELyA6X2Z0tk=",
+  "Hash": "mwjmjjEiM4tvxXyZsWx4GF9K5C4a52KUk74Sdnxod40=",
   "Source": "esercizioAspNet.web",
   "BasePath": "_content/esercizioAspNet.web",
   "Mode": "Default",
@@ -117,6 +117,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\Aless\\Downloads\\torno-subito\\esercizioAspNet.solutuion\\esercizioAspNet.web\\wwwroot\\json\\sedi.json",
+      "SourceId": "esercizioAspNet.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aless\\Downloads\\torno-subito\\esercizioAspNet.solutuion\\esercizioAspNet.web\\wwwroot\\",
+      "BasePath": "_content/esercizioAspNet.web",
+      "RelativePath": "json/sedi.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\json\\sedi.json"
+    },
+    {
+      "Identity": "C:\\Users\\Aless\\Downloads\\torno-subito\\esercizioAspNet.solutuion\\esercizioAspNet.web\\wwwroot\\json\\titoloDiStudio.json",
+      "SourceId": "esercizioAspNet.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aless\\Downloads\\torno-subito\\esercizioAspNet.solutuion\\esercizioAspNet.web\\wwwroot\\",
+      "BasePath": "_content/esercizioAspNet.web",
+      "RelativePath": "json/titoloDiStudio.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\json\\titoloDiStudio.json"
     },
     {
       "Identity": "C:\\Users\\Aless\\Downloads\\torno-subito\\esercizioAspNet.solutuion\\esercizioAspNet.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",

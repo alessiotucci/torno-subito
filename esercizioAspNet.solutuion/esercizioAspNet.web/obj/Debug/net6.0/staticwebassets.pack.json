@@ -21,6 +21,14 @@
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
+      "Id": "C:\\Users\\Aless\\Downloads\\torno-subito\\esercizioAspNet.solutuion\\esercizioAspNet.web\\wwwroot\\json\\sedi.json",
+      "PackagePath": "staticwebassets\\json\\sedi.json"
+    },
+    {
+      "Id": "C:\\Users\\Aless\\Downloads\\torno-subito\\esercizioAspNet.solutuion\\esercizioAspNet.web\\wwwroot\\json\\titoloDiStudio.json",
+      "PackagePath": "staticwebassets\\json\\titoloDiStudio.json"
+    },
+    {
       "Id": "C:\\Users\\Aless\\Downloads\\torno-subito\\esercizioAspNet.solutuion\\esercizioAspNet.web\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
