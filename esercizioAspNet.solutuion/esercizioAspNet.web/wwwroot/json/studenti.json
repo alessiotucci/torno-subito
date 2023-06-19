@@ -1,0 +1,254 @@
+{
+	"ListaStudenti": [
+	  {
+		"Nome": "John",
+		"Cognome": "Doe",
+		"Età": 20,
+		"Grades": [90, 85, 95],
+		"Email": "john.doe@example.com",
+		"NumeroTelefono": "1234567890",
+		"Attitudine": "Responsible",
+		"DescrizionePersonale": "John is a responsible and hardworking student."
+	  },
+	  {
+		"Nome": "Jane",
+		"Cognome": "Smith",
+		"Età": 19,
+		"Grades": [80, 85, 90],
+		"Email": "jane.smith@example.com",
+		"NumeroTelefono": "9876543210",
+		"Attitudine": "Friendly",
+		"DescrizionePersonale": "Jane is a friendly and sociable student."
+	  },
+	  {
+		"Nome": "Mike",
+		"Cognome": "Johnson",
+		"Età": 21,
+		"Grades": [95, 90, 92],
+		"Email": "mike.johnson@example.com",
+		"NumeroTelefono": "5555555555",
+		"Attitudine": "Ambitious",
+		"DescrizionePersonale": "Mike is an ambitious and determined student."
+	  },
+	  {
+		"Nome": "Emily",
+		"Cognome": "Davis",
+		"Età": 18,
+		"Grades": [85, 88, 92],
+		"Email": "emily.davis@example.com",
+		"NumeroTelefono": "1111111111",
+		"Attitudine": "Creative",
+		"DescrizionePersonale": "Emily is a creative and imaginative student."
+	  },
+	  {
+		"Nome": "Andrew",
+		"Cognome": "Wilson",
+		"Età": 20,
+		"Grades": [75, 82, 79],
+		"Email": "andrew.wilson@example.com",
+		"NumeroTelefono": "2222222222",
+		"Attitudine": "Determined",
+		"DescrizionePersonale": "Andrew is a determined and focused student."
+	  },
+	  {
+		"Nome": "Olivia",
+		"Cognome": "Thompson",
+		"Età": 19,
+		"Grades": [90, 88, 95],
+		"Email": "olivia.thompson@example.com",
+		"NumeroTelefono": "3333333333",
+		"Attitudine": "Enthusiastic",
+		"DescrizionePersonale": "Olivia is an enthusiastic and motivated student."
+	  },
+	  {
+		"Nome": "William",
+		"Cognome": "Walker",
+		"Età": 21,
+		"Grades": [82, 85, 88],
+		"Email": "william.walker@example.com",
+		"NumeroTelefono": "4444444444",
+		"Attitudine": "Analytical",
+		"DescrizionePersonale": "William is an analytical and detail-oriented student."
+	  },
+	  {
+		"Nome": "Sophia",
+		"Cognome": "Parker",
+		"Età": 18,
+		"Grades": [95, 92, 98],
+		"Email": "sophia.parker@example.com",
+		"NumeroTelefono": "5555555555",
+		"Attitudine": "Leadership",
+		"DescrizionePersonale": "Sophia is a natural leader and confident student."
+	  },
+	  {
+		"Nome": "James",
+		"Cognome": "Carter",
+		"Età": 20,
+		"Grades": [88, 90, 86],
+		"Email": "james.carter@example.com",
+		"NumeroTelefono": "6666666666",
+		"Attitudine": "Adaptable",
+		"DescrizionePersonale": "James is an adaptable and flexible student."
+	  },
+	  {
+		"Nome": "Isabella",
+		"Cognome": "Stewart",
+		"Età": 19,
+		"Grades": [92, 95, 90],
+		"Email": "isabella.stewart@example.com",
+		"NumeroTelefono": "7777777777",
+		"Attitudine": "Diligent",
+		"DescrizionePersonale": "Isabella is a diligent and hardworking student."
+	  },
+	  {
+		"Nome": "Benjamin",
+		"Cognome": "Harris",
+		"Età": 21,
+		"Grades": [80, 85, 78],
+		"Email": "benjamin.harris@example.com",
+		"NumeroTelefono": "8888888888",
+		"Attitudine": "Inquisitive",
+		"DescrizionePersonale": "Benjamin is an inquisitive and curious student."
+	  },
+  {
+	"Nome": "Seraphina",
+	"Cognome": "Windsor",
+	"Età": 19,
+	"Grades": [95, 90, 92],
+	"Email": "seraphina.windsor@example.com",
+	"NumeroTelefono": "1234567890",
+	"Attitudine": "Eccentric",
+	"DescrizionePersonale": "Seraphina is an eccentric and quirky student with a creative mind."
+	},
+	{
+		"Nome": "Atticus",
+		"Cognome": "Montgomery",
+		"Età": 20,
+		"Grades": [85, 88, 92],
+		"Email": "atticus.montgomery@example.com",
+		"NumeroTelefono": "9876543210",
+		"Attitudine": "Meticulous",
+		"DescrizionePersonale": "Atticus is a meticulous and detail-oriented student who pays attention to every aspect of their work."
+	},
+	{
+		"Nome": "Persephone",
+		"Cognome": "Evergreen",
+		"Età": 18,
+		"Grades": [90, 88, 95],
+		"Email": "persephone.evergreen@example.com",
+		"NumeroTelefono": "5555555555",
+		"Attitudine": "Dreamer",
+		"DescrizionePersonale": "Persephone is a dreamer with a vivid imagination and a penchant for exploring new ideas."
+	},
+	{
+		"Nome": "Caspian",
+		"Cognome": "Delacroix",
+		"Età": 21,
+		"Grades": [75, 82, 79],
+		"Email": "caspian.delacroix@example.com",
+		"NumeroTelefono": "1111111111",
+		"Attitudine": "Rebellious",
+		"DescrizionePersonale": "Caspian is a rebellious student who challenges conventions and thinks outside the box."
+	},
+	{
+		"Nome": "Luna",
+		"Cognome": "Moonstone",
+		"Età": 19,
+		"Grades": [90, 92, 88],
+		"Email": "luna.moonstone@example.com",
+		"NumeroTelefono": "2222222222",
+		"Attitudine": "Free-spirited",
+		"DescrizionePersonale": "Luna is a free-spirited student who embraces spontaneity and follows their own path."
+	},
+	{
+		"Nome": "Maverick",
+		"Cognome": "Hawthorne",
+		"Età": 20,
+		"Grades": [82, 85, 88],
+		"Email": "maverick.hawthorne@example.com",
+		"NumeroTelefono": "3333333333",
+		"Attitudine": "Adventurous",
+		"DescrizionePersonale": "Maverick is an adventurous student who loves to explore new territories and take risks."
+	},
+	{
+		"Nome": "Celeste",
+		"Cognome": "Nightingale",
+		"Età": 18,
+		"Grades": [95, 92, 98],
+		"Email": "celeste.nightingale@example.com",
+		"NumeroTelefono": "4444444444",
+		"Attitudine": "Enigmatic",
+		"DescrizionePersonale": "Celeste is an enigmatic student with an aura of mystery and an uncanny ability to captivate others."
+	},
+	{
+		"Nome": "Phoenix",
+		"Cognome": "Wilder",
+		"Età": 21,
+		"Grades": [80, 85, 78],
+		"Email": "phoenix.wilder@example.com",
+		"NumeroTelefono": "6666666666",
+		"Attitudine": "Passionate",
+		"DescrizionePersonale": "Phoenix is a passionate student who approaches their studies with great enthusiasm and determination."
+	},
+	{
+		"Nome": "Nova",
+		"Cognome": "Stellaris",
+		"Età": 19,
+		"Grades": [92, 95, 90],
+		"Email": "nova.stellaris@example.com",
+		"NumeroTelefono": "7777777777",
+		"Attitudine": "Visionary",
+		"DescrizionePersonale": "Nova is a visionary student with a keen eye for the future and a desire to make a positive impact."
+	},
+	{
+		"Nome": "Zephyr",
+		"Cognome": "Blaze",
+		"Età": 20,
+		"Grades": [88, 90, 86],
+		"Email": "zephyr.blaze@example.com",
+		"NumeroTelefono": "8888888888",
+		"Attitudine": "Unconventional",
+		"DescrizionePersonale": "Zephyr is an unconventional student who challenges traditional norms and embraces alternative perspectives."
+	},
+	{
+		"Nome": "Aurora",
+		"Cognome": "Frost",
+		"Età": 19,
+		"Grades": [95, 90, 92],
+		"Email": "aurora.frost@example.com",
+		"NumeroTelefono": "9999999999",
+		"Attitudine": "Creative",
+		"DescrizionePersonale": "Aurora is a creative student with a vivid imagination and a flair for artistic expression."
+	},
+	{
+		"Nome": "Orion",
+		"Cognome": "Nightshade",
+		"Età": 18,
+		"Grades": [85, 88, 92],
+		"Email": "orion.nightshade@example.com",
+		"NumeroTelefono": "0000000000",
+		"Attitudine": "Analytical",
+		"DescrizionePersonale": "Orion is an analytical student who enjoys diving deep into complex subjects and unraveling intricate problems."
+	},
+	{
+		"Nome": "Lumina",
+		"Cognome": "Sunfire",
+		"Età": 21,
+		"Grades": [90, 88, 95],
+		"Email": "lumina.sunfire@example.com",
+		"NumeroTelefono": "2222222222",
+		"Attitudine": "Inquisitive",
+		"DescrizionePersonale": "Lumina is an inquisitive student who constantly seeks knowledge and asks thought-provoking questions."
+	},
+	{
+		"Nome": "Cairo",
+		"Cognome": "Stormrider",
+		"Età": 19,
+		"Grades": [75, 82, 79],
+		"Email": "cairo.stormrider@example.com",
+		"NumeroTelefono": "4444444444",
+		"Attitudine": "Ambitious",
+		"DescrizionePersonale": "Cairo is an ambitious student with lofty goals and a drive to excel in all endeavors."
+	}
+	]
+}  
