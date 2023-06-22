@@ -237,6 +237,70 @@ body {
             padding: 2px 4px;
         }
 }
+/* this is for the search bar */
+.search-bar {
+    display: flex;
+    align-items: center;
+}
 
+    .search-bar input[type="text"] {
+        padding: 8px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+
+    .search-bar button {
+        padding: 8px 16px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 4px;
+        margin-left: 8px;
+    }
+/* this is the other one*/
+
+#compito {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+    #compito th,
+    #compito td {
+        padding: 4px;
+        text-align: left;
+        border: 2px solid black; /* Add black thick borders */
+    }
+
+    #compito th {
+        background-color: white;
+        color: #333;
+        font-weight: bold;
+    }
+
+    #compito td {
+        background-color: #fff;
+        color: #333;
+    }
+
+    #compito tr:hover {
+        background-color: #e6f7ff;
+        cursor: pointer;
+    }
+
+        #compito tr:hover td {
+            color: #000;
+        }
+
+    #compito td:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+
+    #compito td:nth-child(odd) {
+        background-color: #fff;
+    }
+    #compito tbody tr td:hover {
+        background-color: wheat;
+        transform: scale(1.21);
+}
 
 </style >

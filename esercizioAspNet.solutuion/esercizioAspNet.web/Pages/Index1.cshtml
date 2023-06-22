@@ -1,0 +1,75 @@
+﻿@page
+@model esercizioAspNet.web.Pages.studentiModel
+
+@using esercizioAspNet.web.model2
+<!-- Import the namespace required for the model -->
+@{
+    ViewData["Title"] = "Studenti";
+}
+<!-- Set the title for the page -->
+<h1>esercizio per casa</h1>
+
+<!-- Declare a form element with the "post" method attribute -->
+<!-- This indicates that the form should be submitted using the HTTP POST method -->
+<form method="post">
+    <!-- Create a div element with the class "search-bar" for styling purposes -->
+    <div class="search-bar">
+        <!-- Create an input element with the id "searchInput" -->
+        <!-- The "type" attribute is set to "text" to create a text input field -->
+        <!-- The "name" attribute is set to "searchQuery" -->
+        <!-- This will be used to bind the value entered by the user to the "searchQuery" parameter in the "OnPost" method -->
+        <!-- The "placeholder" attribute provides a hint text that is displayed in the input field -->
+        <input id="searchInput" type="text" name="searchQuery" placeholder="Search..." />
+
+        <!-- Create a button element with the id "searchButton" -->
+        <!-- The "type" attribute is set to "submit" to indicate that this button will submit the form -->
+        <!-- The "asp-page-handler" attribute is set to "Search" -->
+        <!-- This specifies that when the button is clicked, the "Search" handler in the Razor page will be executed -->
+        <button id="searchButton" type="submit" asp-page-handler="Search">Search</button>
+    </div>
+</form>
+
+
+
+
+<table id="compito">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Email</th>
+            <th>Phone Number</th>
+            <th>Attitude</th>
+            <th>Personality Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var studente in Model.Studenti)
+        {
+            <!-- Loop through each studente in the "Studenti" property of the model -->
+
+            <tr>
+                <td><label>@studente.Nome</label></td>
+                <!-- Display the "Name" property of the current studente -->
+
+                <td><label>@studente.Età</label></td>
+                <!-- Display the "Age" property of the current studente -->
+
+              <!--  <td><label>studente.Grades</label></td> -->
+                <!-- Display the "Grades" property of the current studente -->
+
+                <td><label>@studente.Email</label></td>
+                <!-- Display the "Email" property of the current studente -->
+
+                <td><label>@studente.NumeroTelefono</label></td>
+                <!-- Display the "PhoneNumber" property of the current studente -->
+
+                <td><label>@studente.Attitudine</label></td>
+                <!-- Display the "Attitude" property of the current studente -->
+
+                <td><label>@studente.DescrizionePersonale</label></td>
+                <!-- Display the "PersonalityDescription" property of the current studente -->
+            </tr>
+        }
+    </tbody>
+</table>

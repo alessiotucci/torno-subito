@@ -3,8 +3,11 @@
     "",
     "\\esercizioAspNet.solutuion",
     "\\esercizioAspNet.solutuion\\esercizioAspNet.web",
-    "\\esercizioAspNet.solutuion\\esercizioAspNet.web\\model2"
+    "\\esercizioAspNet.solutuion\\esercizioAspNet.web\\model2",
+    "\\esercizioAspNet.solutuion\\esercizioAspNet.web\\Pages",
+    "\\esercizioAspNet.solutuion\\esercizioAspNet.web\\wwwroot",
+    "\\esercizioAspNet.solutuion\\esercizioAspNet.web\\wwwroot\\json",
+    "\\timesAfterTimes"
   ],
-  "SelectedNode": "\\esercizioAspNet.solutuion\\esercizioAspNet.web",
   "PreviewInSolutionExplorer": false
 }
