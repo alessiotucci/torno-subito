@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Kkn1tMrmriRowCSIKlkCO9ZGB58/0PIFx14N0aPqnvs=",
+  "Hash": "vqPdgFodWe6vv2t/J9+StKboY2ZZFSPipSK2H9uoBE4=",
   "Source": "not working",
   "BasePath": "_content/not working",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "not working\\wwwroot",
       "Source": "not working",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\obj\\Debug\\net6.0\\scopedcss\\bundle\\not working.styles.css",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\obj\\Debug\\net6.0\\scopedcss\\bundle\\not working.styles.css",
       "SourceId": "not working",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/not working",
       "RelativePath": "not working.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aless\\source\\repos\\not working\\obj\\Debug\\net6.0\\scopedcss\\bundle\\not working.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\obj\\Debug\\net6.0\\scopedcss\\bundle\\not working.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\not working.bundle.scp.css",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\not working.bundle.scp.css",
       "SourceId": "not working",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/not working",
       "RelativePath": "not working.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aless\\source\\repos\\not working\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\not working.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\not working.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\css\\site.css",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\favicon.ico",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\js\\site.js",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -102,12 +102,12 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,15 +116,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,15 +133,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,15 +150,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -167,15 +167,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,15 +184,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -201,15 +201,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -218,15 +218,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -235,15 +235,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -252,15 +252,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -269,15 +269,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -286,15 +286,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -303,15 +303,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -320,15 +320,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -337,15 +337,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -354,15 +354,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -371,15 +371,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -388,15 +388,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -405,15 +405,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -422,15 +422,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -439,15 +439,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -456,15 +456,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -473,15 +473,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -490,15 +490,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -507,15 +507,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -524,15 +524,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -541,15 +541,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -558,15 +558,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -575,15 +575,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -592,15 +592,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -609,15 +609,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -626,15 +626,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "RelativePath": "json/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -643,15 +643,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "RelativePath": "json/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -660,15 +660,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "RelativePath": "json/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -677,15 +677,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "RelativePath": "json/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -694,15 +694,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "RelativePath": "json/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -711,15 +711,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
+      "RelativePath": "json/lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -728,15 +728,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "RelativePath": "json/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -745,15 +745,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "RelativePath": "json/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -762,15 +762,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "RelativePath": "json/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -779,15 +779,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
+      "RelativePath": "json/lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -796,15 +796,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
+      "RelativePath": "json/lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -813,15 +813,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
+      "RelativePath": "json/lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -830,15 +830,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "RelativePath": "json/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -847,15 +847,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\bootstrap\\LICENSE",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/bootstrap/LICENSE",
+      "RelativePath": "json/lib/bootstrap/LICENSE",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -864,15 +864,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/jquery/dist/jquery.js",
+      "RelativePath": "json/lib/jquery/dist/jquery.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -881,15 +881,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/jquery/dist/jquery.min.js",
+      "RelativePath": "json/lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -898,15 +898,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/jquery/dist/jquery.min.map",
+      "RelativePath": "json/lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -915,15 +915,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\jquery\\LICENSE.txt",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/jquery/LICENSE.txt",
+      "RelativePath": "json/lib/jquery/LICENSE.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -932,15 +932,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
+      "RelativePath": "json/lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -949,15 +949,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
+      "RelativePath": "json/lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -966,15 +966,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
+      "RelativePath": "json/lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -983,15 +983,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "RelativePath": "json/lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1000,15 +1000,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/jquery-validation/LICENSE.md",
+      "RelativePath": "json/lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1017,15 +1017,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "RelativePath": "json/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1034,15 +1034,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "RelativePath": "json/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1051,15 +1051,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "not working",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aless\\source\\repos\\not working\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
       "BasePath": "_content/not working",
-      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "RelativePath": "json/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1068,7 +1068,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\json\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\json\\sedi.json",
+      "SourceId": "not working",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aless\\OneDrive\\Desktop\\torno-subito\\not working\\wwwroot\\",
+      "BasePath": "_content/not working",
+      "RelativePath": "json/sedi.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\json\\sedi.json"
     }
   ]
 }
