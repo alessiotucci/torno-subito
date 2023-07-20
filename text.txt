@@ -1,0 +1,4 @@
+cGET is the most common HTTP method. It is used to retrieve data from the server. For example, when you visit a website in your browser, the browser sends a GET request to the server. The server then returns the HTML code for the page, which is then displayed in the browser.
+POST is used to submit data to the server. For example, when you fill out a form on a website and click the Submit button, the browser sends a POST request to the server. The server then processes the data from the form and takes the appropriate action.
+PUT is used to update existing data on the server. For example, if you want to change the value of a field in a database record, you would send a PUT request to the server. The server would then update the record in the database.
+DELETE is used to delete data from the server. For example, if you want to delete a record from a database, you would send a DELETE request to the server. The server would then delete the record from the database.iao
