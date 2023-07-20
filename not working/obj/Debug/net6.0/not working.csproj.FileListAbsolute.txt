@@ -1,0 +1,62 @@
+C:\Users\Aless\source\repos\not working\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aless\source\repos\not working\bin\Debug\net6.0\appsettings.json
+C:\Users\Aless\source\repos\not working\bin\Debug\net6.0\not working.staticwebassets.runtime.json
+C:\Users\Aless\source\repos\not working\bin\Debug\net6.0\not working.exe
+C:\Users\Aless\source\repos\not working\bin\Debug\net6.0\not working.deps.json
+C:\Users\Aless\source\repos\not working\bin\Debug\net6.0\not working.runtimeconfig.json
+C:\Users\Aless\source\repos\not working\bin\Debug\net6.0\not working.dll
+C:\Users\Aless\source\repos\not working\bin\Debug\net6.0\not working.pdb
+C:\Users\Aless\source\repos\not working\obj\Debug\net6.0\not working.csproj.AssemblyReference.cache
+C:\Users\Aless\source\repos\not working\obj\Debug\net6.0\not working.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aless\source\repos\not working\obj\Debug\net6.0\not working.AssemblyInfoInputs.cache
+C:\Users\Aless\source\repos\not working\obj\Debug\net6.0\not working.AssemblyInfo.cs
+C:\Users\Aless\source\repos\not working\obj\Debug\net6.0\not working.csproj.CoreCompileInputs.cache
+C:\Users\Aless\source\repos\not working\obj\Debug\net6.0\not working.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aless\source\repos\not working\obj\Debug\net6.0\not working.RazorAssemblyInfo.cache
+C:\Users\Aless\source\repos\not working\obj\Debug\net6.0\not working.RazorAssemblyInfo.cs
+C:\Users\Aless\source\repos\not working\obj\Debug\net6.0\staticwebassets\msbuild.not working.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aless\source\repos\not working\obj\Debug\net6.0\staticwebassets\msbuild.build.not working.props
+C:\Users\Aless\source\repos\not working\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.not working.props
+C:\Users\Aless\source\repos\not working\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.not working.props
+C:\Users\Aless\source\repos\not working\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Aless\source\repos\not working\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aless\source\repos\not working\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aless\source\repos\not working\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aless\source\repos\not working\obj\Debug\net6.0\scopedcss\bundle\not working.styles.css
+C:\Users\Aless\source\repos\not working\obj\Debug\net6.0\scopedcss\projectbundle\not working.bundle.scp.css
+C:\Users\Aless\source\repos\not working\obj\Debug\net6.0\not working.dll
+C:\Users\Aless\source\repos\not working\obj\Debug\net6.0\refint\not working.dll
+C:\Users\Aless\source\repos\not working\obj\Debug\net6.0\not working.pdb
+C:\Users\Aless\source\repos\not working\obj\Debug\net6.0\not working.genruntimeconfig.cache
+C:\Users\Aless\source\repos\not working\obj\Debug\net6.0\ref\not working.dll
+C:\Users\Aless\OneDrive\Desktop\torno-subito\not working\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aless\OneDrive\Desktop\torno-subito\not working\bin\Debug\net6.0\appsettings.json
+C:\Users\Aless\OneDrive\Desktop\torno-subito\not working\bin\Debug\net6.0\not working.staticwebassets.runtime.json
+C:\Users\Aless\OneDrive\Desktop\torno-subito\not working\bin\Debug\net6.0\not working.exe
+C:\Users\Aless\OneDrive\Desktop\torno-subito\not working\bin\Debug\net6.0\not working.deps.json
+C:\Users\Aless\OneDrive\Desktop\torno-subito\not working\bin\Debug\net6.0\not working.runtimeconfig.json
+C:\Users\Aless\OneDrive\Desktop\torno-subito\not working\bin\Debug\net6.0\not working.dll
+C:\Users\Aless\OneDrive\Desktop\torno-subito\not working\bin\Debug\net6.0\not working.pdb
+C:\Users\Aless\OneDrive\Desktop\torno-subito\not working\obj\Debug\net6.0\not working.csproj.AssemblyReference.cache
+C:\Users\Aless\OneDrive\Desktop\torno-subito\not working\obj\Debug\net6.0\not working.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aless\OneDrive\Desktop\torno-subito\not working\obj\Debug\net6.0\not working.AssemblyInfoInputs.cache
+C:\Users\Aless\OneDrive\Desktop\torno-subito\not working\obj\Debug\net6.0\not working.AssemblyInfo.cs
+C:\Users\Aless\OneDrive\Desktop\torno-subito\not working\obj\Debug\net6.0\not working.csproj.CoreCompileInputs.cache
+C:\Users\Aless\OneDrive\Desktop\torno-subito\not working\obj\Debug\net6.0\not working.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aless\OneDrive\Desktop\torno-subito\not working\obj\Debug\net6.0\not working.RazorAssemblyInfo.cache
+C:\Users\Aless\OneDrive\Desktop\torno-subito\not working\obj\Debug\net6.0\not working.RazorAssemblyInfo.cs
+C:\Users\Aless\OneDrive\Desktop\torno-subito\not working\obj\Debug\net6.0\staticwebassets\msbuild.not working.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aless\OneDrive\Desktop\torno-subito\not working\obj\Debug\net6.0\staticwebassets\msbuild.build.not working.props
+C:\Users\Aless\OneDrive\Desktop\torno-subito\not working\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.not working.props
+C:\Users\Aless\OneDrive\Desktop\torno-subito\not working\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.not working.props
+C:\Users\Aless\OneDrive\Desktop\torno-subito\not working\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Aless\OneDrive\Desktop\torno-subito\not working\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aless\OneDrive\Desktop\torno-subito\not working\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aless\OneDrive\Desktop\torno-subito\not working\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aless\OneDrive\Desktop\torno-subito\not working\obj\Debug\net6.0\scopedcss\bundle\not working.styles.css
+C:\Users\Aless\OneDrive\Desktop\torno-subito\not working\obj\Debug\net6.0\scopedcss\projectbundle\not working.bundle.scp.css
+C:\Users\Aless\OneDrive\Desktop\torno-subito\not working\obj\Debug\net6.0\not working.dll
+C:\Users\Aless\OneDrive\Desktop\torno-subito\not working\obj\Debug\net6.0\refint\not working.dll
+C:\Users\Aless\OneDrive\Desktop\torno-subito\not working\obj\Debug\net6.0\not working.pdb
+C:\Users\Aless\OneDrive\Desktop\torno-subito\not working\obj\Debug\net6.0\not working.genruntimeconfig.cache
+C:\Users\Aless\OneDrive\Desktop\torno-subito\not working\obj\Debug\net6.0\ref\not working.dll
