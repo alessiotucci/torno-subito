@@ -1,0 +1,37 @@
+﻿@page
+@model cvManagerCRUD.Pages.paginettaModel
+@{
+    <table id="tabu">
+        <thead>
+            <tr>
+                <th>Descrizione</th>
+                <th>Indirizzo</th>
+                <th>Città</th>
+                <th>Provincia</th>
+                <th>Cap</th>
+                <th>Recapito tel</th>
+                <th>Email</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.sedi) // this was  the issues
+            {
+                <tr>
+                    <td><label>@item.Descrizione</label></td>
+                    <td><label>@item.Indirizzo</label></td>
+                    <td><label>@item.Citta</label></td>
+                    <td><label>@item.Provincia</label></td>
+                    <td><label>@item.Cap</label></td>
+                    <td><label>@item.RecapitoTel</label></td>
+                    <td><label>@item.Email</label></td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <hr />
+    <hr />
+}
+}
