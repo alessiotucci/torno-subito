@@ -1,0 +1,81 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+/* this is a suggestion from chatGPT to help me create a better table*/
+
+/* site.css */
+
+
+
+/* Style for the table */
+#tabu {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+    #tabu th,
+    #tabu td {
+        padding: 8px;
+        border: 1px solid #ddd;
+    }
+
+    #tabu th {
+        background-color: #f2f2f2;
+    }
+
+/* Style for the Edit and Delete buttons */
+.btn {
+    cursor: pointer;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    color: #fff;
+}
+
+/* Style for the form */
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-control {
+    width: 100%;
+    padding: 6px 12px;
+    font-size: 14px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.btn-success {
+    background-color: #28a745;
+    color: #fff;
+    padding: 6px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+/* another suggestion from chatGPT*/
+
