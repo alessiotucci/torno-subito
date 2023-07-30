@@ -26,8 +26,8 @@ torno subito is a fund by European Union to help youth find occupation, I was ab
 | Luglio 14 | C# Advanced -1|
 | Luglio 15 | C# Advanced -2|
 | Luglio 21 | Servizi SOAP & REST|
-| Luglio 28 | Strumenti di coding 1|
-| Luglio 29 | Strumenti di coding 2|
+| Luglio 28 | birra project con Pasquale| [link repo](https://github.com/alessiotucci/birra-project)|
+| Luglio 29 | birra project con Pasquale| [link repo](https://github.com/alessiotucci/birra-project)|
 | Agosto 04 | Code management con Git 1|
 | Agosto 05 | Code management con Git 2|
 | Agosto 06 | Code management con Git 3|
