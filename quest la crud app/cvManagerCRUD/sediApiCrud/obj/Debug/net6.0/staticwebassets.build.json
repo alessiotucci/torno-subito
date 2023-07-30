@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5aCYfB8kzgNF4qFCJ6dytvOlHW3Npjdf47mIUbm57wc=",
+  "Source": "sediApiCrud",
+  "BasePath": "_content/sediApiCrud",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

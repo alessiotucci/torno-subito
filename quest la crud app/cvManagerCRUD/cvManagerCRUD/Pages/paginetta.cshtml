@@ -1,0 +1,81 @@
+﻿@page
+@model cvManagerCRUD.Pages.paginettaModel
+
+
+<table id="tabu">
+    <thead>
+        <tr>
+            <th>Descrizione</th>
+            <th>Indirizzo</th>
+            <th>Città</th>
+            <th>Provincia</th>
+            <th>Cap</th>
+            <th>Recapito tel</th>
+            <th>Email</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.ListOfSedy)
+        {
+            <tr>
+                <td>@item.Descrizione</td>
+                <td>@item.Indirizzo</td>
+                <td>@item.Citta</td>
+                <td>@item.Provincia</td>
+                <td>@item.Cap</td>
+                <td>@item.RecapitoTel</td>
+                <td>@item.Email</td>
+                <td>
+                    <!-- Add buttons for Edit-->
+                    <button type="button" onclick="location.href='@Url.Page("Edit", new { id = item.Id })'">Edit</button>
+                    <form asp-page-handler="Delete" method="post">
+                        <input type="hidden" name="id" value="@item.Id" />
+                        <!-- Add buttons for Delete -->
+
+                        <button type="submit">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Add a form for creating new records -->
+
+
+<div class="card">
+    <h3>Create New Sede</h3>
+    <form asp-page-handler="Create" method="post">
+        <div class="form-group">
+            <label for="descrizione">Descrizione:</label>
+            <input type="text" id="descrizione" name="Descrizione" class="form-control" required />
+        </div>
+        <div class="form-group">
+            <label for="indirizzo">Indirizzo:</label>
+            <input type="text" id="indirizzo" name="Indirizzo" class="form-control" required />
+        </div>
+        <div class="form-group">
+            <label for="citta">Città:</label>
+            <input type="text" id="citta" name="Citta" class="form-control" required />
+        </div>
+        <div class="form-group">
+            <label for="provincia">Provincia:</label>
+            <input type="text" id="provincia" name="Provincia" class="form-control" required />
+        </div>
+        <div class="form-group">
+            <label for="cap">Cap:</label>
+            <input type="text" id="cap" name="Cap" class="form-control" required />
+        </div>
+        <div class="form-group">
+            <label for="recapitoTel">Recapito tel:</label>
+            <input type="text" id="recapitoTel" name="RecapitoTel" class="form-control" required />
+        </div>
+        <div class="form-group">
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="Email" class="form-control" required />
+        </div>
+       <!--this is the button to submit the new sede-->
+        <button type="submit" class="btn btn-primary">Create</button>
+    </form>
+</div>
