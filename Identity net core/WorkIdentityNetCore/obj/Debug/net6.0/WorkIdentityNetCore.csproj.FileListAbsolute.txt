@@ -1,0 +1,231 @@
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\appsettings.json
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\WorkIdentityNetCore.staticwebassets.runtime.json
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\WorkIdentityNetCore.exe
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\WorkIdentityNetCore.deps.json
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\WorkIdentityNetCore.runtimeconfig.json
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\WorkIdentityNetCore.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\WorkIdentityNetCore.pdb
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.csproj.AssemblyReference.cache
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.AssemblyInfoInputs.cache
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.AssemblyInfo.cs
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.csproj.CoreCompileInputs.cache
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.RazorAssemblyInfo.cache
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.RazorAssemblyInfo.cs
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\obj\Debug\net6.0\staticwebassets\msbuild.WorkIdentityNetCore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\obj\Debug\net6.0\staticwebassets\msbuild.build.WorkIdentityNetCore.props
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WorkIdentityNetCore.props
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WorkIdentityNetCore.props
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\obj\Debug\net6.0\scopedcss\bundle\WorkIdentityNetCore.styles.css
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\obj\Debug\net6.0\scopedcss\projectbundle\WorkIdentityNetCore.bundle.scp.css
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.csproj.CopyComplete
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\obj\Debug\net6.0\refint\WorkIdentityNetCore.dll
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.pdb
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.genruntimeconfig.cache
+C:\Users\Aless\OneDrive\Desktop\WorkIdentityNetCore.Solution\WorkIdentityNetCore\obj\Debug\net6.0\ref\WorkIdentityNetCore.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\appsettings.json
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\WorkIdentityNetCore.staticwebassets.runtime.json
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\WorkIdentityNetCore.exe
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\WorkIdentityNetCore.deps.json
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\WorkIdentityNetCore.runtimeconfig.json
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\WorkIdentityNetCore.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\WorkIdentityNetCore.pdb
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.csproj.AssemblyReference.cache
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.AssemblyInfoInputs.cache
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.AssemblyInfo.cs
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.csproj.CoreCompileInputs.cache
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.RazorAssemblyInfo.cache
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.RazorAssemblyInfo.cs
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\staticwebassets\msbuild.WorkIdentityNetCore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\staticwebassets\msbuild.build.WorkIdentityNetCore.props
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WorkIdentityNetCore.props
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WorkIdentityNetCore.props
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\scopedcss\bundle\WorkIdentityNetCore.styles.css
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\scopedcss\projectbundle\WorkIdentityNetCore.bundle.scp.css
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.csproj.CopyComplete
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\refint\WorkIdentityNetCore.dll
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.pdb
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.genruntimeconfig.cache
+C:\Users\Aless\OneDrive\Desktop\esercitiamozi\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\ref\WorkIdentityNetCore.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\appsettings.json
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\WorkIdentityNetCore.staticwebassets.runtime.json
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\WorkIdentityNetCore.exe
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\WorkIdentityNetCore.deps.json
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\WorkIdentityNetCore.runtimeconfig.json
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\WorkIdentityNetCore.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\WorkIdentityNetCore.pdb
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.csproj.AssemblyReference.cache
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.AssemblyInfoInputs.cache
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.AssemblyInfo.cs
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.csproj.CoreCompileInputs.cache
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.RazorAssemblyInfo.cache
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.RazorAssemblyInfo.cs
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\staticwebassets\msbuild.WorkIdentityNetCore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\staticwebassets\msbuild.build.WorkIdentityNetCore.props
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WorkIdentityNetCore.props
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WorkIdentityNetCore.props
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\scopedcss\bundle\WorkIdentityNetCore.styles.css
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\scopedcss\projectbundle\WorkIdentityNetCore.bundle.scp.css
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.csproj.CopyComplete
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\refint\WorkIdentityNetCore.dll
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.pdb
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\WorkIdentityNetCore.genruntimeconfig.cache
+C:\Users\Aless\OneDrive\Desktop\Main Folder (all files are inside)\Identity net core\WorkIdentityNetCore\obj\Debug\net6.0\ref\WorkIdentityNetCore.dll
