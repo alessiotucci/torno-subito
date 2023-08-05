@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using WorkIdentityNetCore.Data;
+using WorkIdentityNetCore.Models.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,9 +11,18 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(connectionString));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 // in a web core app we add a services add default identiy... 
-builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+builder.Services.AddDefaultIdentity<MyUser>(options => options.SignIn.RequireConfirmedAccount = false)
     .AddEntityFrameworkStores<ApplicationDbContext>(); // we will use a dbcontext too, all included at the start
 builder.Services.AddRazorPages();
+
+// we want to customize the password policy
+builder.Services.Configure<IdentityOptions>(options =>
+ {
+     options.Password.RequiredLength = 10;
+     options.Password.RequireDigit = false;
+     options.Password.RequireLowercase = false;
+     options.Password.RequireUppercase = false;
+ }  );
 
 var app = builder.Build();
 
