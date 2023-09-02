@@ -29,8 +29,8 @@ torno subito is a fund by European Union to help youth find occupation, I was ab
 | Luglio 22 | funzione async con Francesco| [link cs file](https://github.com/alessiotucci/torno-subito/blob/main/esercizioFRahCONsole.cs)
 | Luglio 28 | birra project con Pasquale| [link repo](https://github.com/alessiotucci/birra-project)|
 | Luglio 29 | birra project con Pasquale| [link repo](https://github.com/alessiotucci/birra-project)|
-| Agosto 04 | Code management con Git 1|
-| Agosto 05 | Code management con Git 2|
+| Agosto 04 | Code management con Git 1| [Entity Framework Codemy.pdf](https://github.com/alessiotucci/torno-subito/files/12280112/Entity.Framework.Codemy.pdf)|
+| Agosto 05 | Code management con Git 2|  [Entity Framework Codemy.pdf](https://github.com/alessiotucci/torno-subito/files/12280112/Entity.Framework.Codemy.pdf)|
 | Agosto 06 | Code management con Git 3|
 | Settembre 01 | Blazor Web Assembly 2|
 | Settembre 02 | Blazor Web Assembly 3|
