@@ -1,0 +1,49 @@
+﻿@page "/History"
+@using tutorialBlazor.Shared
+@inject HttpClient Http
+
+
+<h1>HistoryPage</h1>
+<h3> in the page you will see the history of the  calculation</h3>
+
+@if (histories == null)
+{
+    <p><h1>HISTORIES IS NULL!!!</h1></p>
+
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>First Value</th>
+                <th>second Value</th>
+                <th>Operation</th>
+                <th>date and time </th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var history in histories)
+            {
+                <tr>
+                    <td>@history.Value1</td>
+                    <td>@history.Value2</td>
+                    <td>@history.Operation</td>
+                    <td>@history.DateAndTime</td>
+                
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+ 
+
+@code {
+    private History[]? histories;
+    protected override async Task OnInitializedAsync()
+    {
+        histories = await Http.GetFromJsonAsync<History[]>("api/History");
+    }
+}
