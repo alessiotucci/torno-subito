@@ -2,8 +2,12 @@
 @using Microsoft.VisualBasic;
 @using static System.Net.WebRequestMethods;
 @using tutorialBlazor.Shared;
+
 @using System.Net.Http.Json;
 
+@using tutorialBlazor.Client.Pages
+@inject HttpClient Http
+@inject IJSRuntime JSRuntime
 
 <h1>Calculator</h1>
 <p class="calculator-display"> @Value1 @charisco @Value2 =</p>
@@ -28,12 +32,12 @@
     <button @onclick="() => AppendDigit(7)" type="button" class="calculator-button">7</button>
     <button @onclick="() => AppendDigit(8)" type="button" class="calculator-button">8</button>
     <button @onclick="() => AppendDigit(9)" type="button" class="calculator-button">9</button>
-    <button onclick="" type="button" class="calculator-button">.</button>
-    <button onclick="" type="button" class="calculator-button">e</button>
+  
     <button @onclick="() => SetOperation('+')" type="button" class="operator btn btn-info">+</button>
     <button @onclick="() => SetOperation('-')" type="button" class="operator btn btn-info">-</button>
     <button @onclick="() => SetOperation('*')" type="button" class="operator btn btn-info">&times;</button>
     <button @onclick="() => SetOperation('/')" type="button" class="operator btn btn-info">&divide;</button>
+
 </div>
 
 <br />
@@ -147,8 +151,8 @@
     private string Operation;
     private float Result;
     private char charisco;
-    public History history;
-    public DateTime WhatTime;
+    private History newHistory = new History();
+
 
     private void AppendDigit(int digit)
     {
@@ -180,10 +184,14 @@
                 Operation = "divide";
                 break;
         }
+        newHistory.Operation = Operation;
     }
 
-    private void Calculation()
+    private   void Calculation()
     {
+        newHistory.Value1 = Value1;
+        newHistory.Value2 = Value2;
+
         switch (Operation)
         {
             case "plus":
@@ -207,10 +215,20 @@
                 }
                 break;
         }
-        WhatTime = DateTime.Now;
-    //    historyservices.AddToHistory(Value1, Value2, Operation, Result, WhatTime);
+        newHistory.Result = Result;
+        newHistory.DateAndTime = DateAndTime.Now;
+        newHistory.Id = Guid.NewGuid();
+        AddToHistory(newHistory);
+        // here I want to perform the function call to add the history object to the list using a  API
+        //
         Value1 = 0;
         Value2 = 0;
         Operation = null;
+    
+}
+    private async Task AddToHistory(History newHistory)
+    {
+        var response = await Http.PostAsJsonAsync("api/History", newHistory);
+        
     }
 }

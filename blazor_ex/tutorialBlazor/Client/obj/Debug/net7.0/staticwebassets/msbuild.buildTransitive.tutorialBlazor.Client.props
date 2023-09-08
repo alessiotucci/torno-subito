@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\tutorialBlazor.Client.props" />
+</Project>

@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tutorialBlazor.Server", "tutorialBlazor\Server\tutorialBlazor.Server.csproj", "{27C7DEDF-4D86-41C6-B6FA-0D6D18541802}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tutorialBlazor.Server", "tutorialBlazor\Server\tutorialBlazor.Server.csproj", "{27C7DEDF-4D86-41C6-B6FA-0D6D18541802}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tutorialBlazor.Client", "tutorialBlazor\Client\tutorialBlazor.Client.csproj", "{FC574D69-349E-4F1C-99D7-702C3E01FC54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tutorialBlazor.Client", "tutorialBlazor\Client\tutorialBlazor.Client.csproj", "{FC574D69-349E-4F1C-99D7-702C3E01FC54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tutorialBlazor.Shared", "tutorialBlazor\Shared\tutorialBlazor.Shared.csproj", "{D973F686-2648-47FC-AEA1-5E543ECD3EF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tutorialBlazor.Shared", "tutorialBlazor\Shared\tutorialBlazor.Shared.csproj", "{D973F686-2648-47FC-AEA1-5E543ECD3EF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -20,7 +20,7 @@ namespace tutorialBlazor.Server.Controllers
         }
 
         [HttpGet]
-        public IEnumerable<WeatherForecast> Get()
+        public IEnumerable<WeatherForecast> Gettogatto()
         {
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {

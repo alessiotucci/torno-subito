@@ -1,0 +1,76 @@
+﻿@page "/edit"
+
+@using tutorialBlazor.Shared;
+@inject HttpClient Http
+
+<style>
+    .card {
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        padding: 20px;
+        width: 300px;
+        margin: 0 auto;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        background-color: #f8f8f8;
+        text-align: center;
+    }
+
+        .card input[type="number"],
+        .card input[type="text"],
+        .card input[type="datetime"] {
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            outline: none;
+            transition: border-color 0.3s ease-in-out;
+        }
+
+            .card input[type="number"]:focus,
+            .card input[type="text"]:focus,
+            .card input[type="datetime"]:focus {
+                border-color: #007bff;
+            }
+</style>
+<div style="display: flex; justify-content: space-between;" >
+<div class="card">
+    <h1> new input </h1>
+    <input type="number" placeholder="First Value" />
+    <br />
+    <input type="number" placeholder="Second Value" />
+    <br />
+    <input type="text" placeholder="Operation" />
+    <br />
+    <input type="number" placeholder="Result" />
+    <br />
+    <input type="datetime" placeholder="Date and Time" />
+</div>
+
+<div class="card">
+    <h1>old history</h1>
+    <p>first value </p>
+    <br />
+    <p>second value </p>
+    <br />
+    <p>operation </p>
+    <br />
+    <p>result  </p>
+    <br />
+    <p>date and time </p>
+</div>
+</div>
+@code {
+    [Parameter]
+    public Guid HistoryId { get; set; }
+
+    private History OneHistory;
+
+    public async Task GetById(Guid id)
+    {
+        var response = await Http.GetAsync($"api/History/{id}");
+
+        
+
+    }
+}

@@ -1,0 +1,216 @@
+﻿@page "/Calcolatrice"
+@using Microsoft.VisualBasic;
+@using static System.Net.WebRequestMethods;
+@using tutorialBlazor.Shared;
+@using System.Net.Http.Json;
+
+
+<h1>Calculator</h1>
+<p class="calculator-display"> @Value1 @charisco @Value2 =</p>
+<br />
+<button class="calco-display" @onclick="Calculation">Calculate</button>
+<p class="calculator-result"> @Result  </p>
+<input type="number" @bind="Value1" placeholder="first number" class="calculator-display" />
+
+
+<input type="number" @bind="Value2" placeholder="second  number" class="calculator-display" />
+<br />
+<br />
+<div class="calculator-grid">
+
+    <button @onclick="() => AppendDigit(0)" type="button" class="calculator-button">0</button>
+    <button @onclick="() => AppendDigit(1)" type="button" class="calculator-button">1</button>
+    <button @onclick="() => AppendDigit(2)" type="button" class="calculator-button">2</button>
+    <button @onclick="() => AppendDigit(3)" type="button" class="calculator-button">3</button>
+    <button @onclick="() => AppendDigit(4)" type="button" class="calculator-button">4</button>
+    <button @onclick="() => AppendDigit(5)" type="button" class="calculator-button">5</button>
+    <button @onclick="() => AppendDigit(6)" type="button" class="calculator-button">6</button>
+    <button @onclick="() => AppendDigit(7)" type="button" class="calculator-button">7</button>
+    <button @onclick="() => AppendDigit(8)" type="button" class="calculator-button">8</button>
+    <button @onclick="() => AppendDigit(9)" type="button" class="calculator-button">9</button>
+    <button onclick="" type="button" class="calculator-button">.</button>
+    <button onclick="" type="button" class="calculator-button">e</button>
+    <button @onclick="() => SetOperation('+')" type="button" class="operator btn btn-info">+</button>
+    <button @onclick="() => SetOperation('-')" type="button" class="operator btn btn-info">-</button>
+    <button @onclick="() => SetOperation('*')" type="button" class="operator btn btn-info">&times;</button>
+    <button @onclick="() => SetOperation('/')" type="button" class="operator btn btn-info">&divide;</button>
+</div>
+
+<br />
+<label for="operation">choose the operation</label>
+
+<br />
+
+<select name="operation" id="operation" @bind="Operation">
+    <option value="plus">addition + </option>
+
+    <option value="minus">subtraction -</option>
+
+    <option value="times">moltiplication x</option>
+
+    <option value="divide">division :</option>
+
+</select>
+
+
+<button class="btn btn-primary" @onclick="Calculation">Calculate</button>
+<NavLink href="history">
+    <button class="history-button">
+        <img src="https://static.thenounproject.com/png/1563151-200.png" alt="Image Alt Text" />
+    </button>
+</NavLink>
+<style>
+    .calculator-button {
+        background-color: #f0f0f0; /* Light gray background color */
+        border: 1px solid #d4d4d4; /* Light gray border */
+        border-radius: 5px; /* Rounded corners */
+        padding: 10px 20px; /* Adjust padding as needed */
+        font-size: 18px; /* Adjust font size as needed */
+        cursor: pointer; /* Show a pointer cursor on hover */
+        transition: background-color 0.2s, transform 0.1s; /* Smooth transition effects */
+    }
+
+        .calculator-button:hover {
+            background-color: #d4d4d4; /* Darker gray background color on hover */
+            transform: scale(1.05); /* Slightly scale the button on hover */
+        }
+
+    .calculator-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr); /* 4 columns */
+        grid-gap: 10px; /* Adjust the gap between buttons as needed */
+        justify-content: center; /* Center the buttons horizontally */
+        align-items: center; /* Center the buttons vertically */
+    }
+
+    .calculator-result {
+        font-family: 'Courier New', monospace;
+        font-size: 26px; /* Increase the font size for the result */
+        background-color: #333; /* Dark background color */
+        color: #fff; /* White text color */
+        padding: 10px; /* Add some padding to make it stand out */
+        text-align: center; /* Align the result to the right */
+        margin: 0; /* Remove default margin to ensure it's aligned properly */
+    }
+
+    .calculator-display {
+        font-family: 'Courier New', monospace; /* Use a vintage-style font */
+        font-size: 24px; /* Adjust the font size as needed */
+        background-color: #f0f0f0; /* Light gray background color */
+        color: #333; /* Dark text color */
+        border: 2px solid #ccc; /* Light gray border */
+        border-radius: 5px; /* Rounded corners */
+        padding: 10px; /* Add some padding */
+        text-align: right; /* Align the text to the right */
+        margin: 0; /* Remove default margin */
+        width: 100%; /* Make it span the full width */
+        box-shadow: inset 0 2px 2px rgba(0, 0, 0, 0.2); /* Add a subtle shadow */
+        letter-spacing: 1px; /* Adjust letter spacing for vintage feel */
+    }
+
+    .calco-display {
+        font-size: 24px; /* Adjust the font size as needed */
+        background-color: deepskyblue; /* Light gray background color */
+        color: #333; /* Dark text color */
+        border: 2px solid #ccc; /* Light gray border */
+        border-radius: 5px; /* Rounded corners */
+        padding: 10px; /* Add some padding */
+        text-align: center; /* Align the text to the right */
+        margin: 0; /* Remove default margin */
+        width: 100%; /* Make it span the full width */
+    }
+
+        .calco-display:hover {
+            background-color: #d4d4d4; /* Darker gray background color on hover */
+            transform: scale(1.05); /* Slightly scale the button on hover */
+        }
+    /* Define a custom button style */
+    .history-button {
+    }
+
+        /* Style the contained image */
+        .history-button img {
+            max-width: 20%; /* Ensure the image fits within the button */
+            max-height: 20%; /* Ensure the image fits within the button */
+            vertical-align: middle; /* Center the image vertically */
+        }
+
+
+</style>
+
+
+
+
+@code {
+    private float Value1;
+    private float Value2;
+    private string Operation;
+    private float Result;
+    private char charisco;
+    public History history;
+    public DateTime WhatTime;
+
+    private void AppendDigit(int digit)
+    {
+        if (Operation == null)
+        {
+            Value1 = Value1 * 10 + digit;
+        }
+        else
+        {
+            Value2 = Value2 * 10 + digit;
+        }
+    }
+
+    private void SetOperation(char operation)
+    {
+        charisco = operation;
+        switch (operation)
+        {
+            case '+':
+                Operation = "plus";
+                break;
+            case '-':
+                Operation = "minus";
+                break;
+            case '*':
+                Operation = "times";
+                break;
+            case '/':
+                Operation = "divide";
+                break;
+        }
+    }
+
+    private void Calculation()
+    {
+        switch (Operation)
+        {
+            case "plus":
+                Result = Value1 + Value2;
+                break;
+            case "minus":
+                Result = Value1 - Value2;
+                break;
+            case "times":
+                Result = Value1 * Value2;
+                break;
+            case "divide":
+                if (Value2 != 0)
+                {
+                    Result = Value1 / Value2;
+                }
+                else
+                {
+                    // Handle division by zero error
+                    Result = 0;
+                }
+                break;
+        }
+        WhatTime = DateTime.Now;
+    //    historyservices.AddToHistory(Value1, Value2, Operation, Result, WhatTime);
+        Value1 = 0;
+        Value2 = 0;
+        Operation = null;
+    }
+}
