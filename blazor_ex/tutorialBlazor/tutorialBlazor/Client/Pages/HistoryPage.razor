@@ -1,9 +1,10 @@
 ﻿@page "/History"
 @using Microsoft.VisualBasic;
 @using tutorialBlazor.Shared
+@using tutorialBlazor.Client.Helpers
 @inject HttpClient Http
 @inject NavigationManager NavigationManager
-
+@inject IJSRuntime javascript
 
 
 <h1>HistoryPage</h1>
@@ -70,25 +71,34 @@ else
     {
         histories = await Http.GetFromJsonAsync<History[]>("api/History");
     }
+    public ValueTask<bool> Delety()
+    {
+        return javascript.Confirm("are you sure you want to delete this item?");
+    }
     public async Task Delete(Guid id)
     {
-        var response = await Http.DeleteAsync($"api/History/{id}");
+        bool confirmed = await Delety();
+        if (confirmed)
+        {
+            var response = await Http.DeleteAsync($"api/History/{id}");
 
-        if (response.IsSuccessStatusCode)
-        {
-            // History item was successfully deleted, update the list
-            histories = await Http.GetFromJsonAsync<History[]>("api/History");
+            if (response.IsSuccessStatusCode)
+            {
+                // History item was successfully deleted, update the list
+                histories = await Http.GetFromJsonAsync<History[]>("api/History");
+            }
+            else
+            {
+                // Handle the case where deletion was not successful
+                // You can show an error message or take appropriate action
+            }
         }
-        else
-        {
-            // Handle the case where deletion was not successful
-            // You can show an error message or take appropriate action
-        }
+        
     }
 
     private void EditHistory(Guid historyId)
     {
-        NavigationManager.NavigateTo($"/edit");
+        NavigationManager.NavigateTo($"/edit/{historyId}");
     }
 
 

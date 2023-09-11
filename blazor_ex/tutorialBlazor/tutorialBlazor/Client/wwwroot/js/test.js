@@ -1,4 +1,4 @@
-﻿function test(tes)
+﻿function test(param)
 {
-    return confirm(tes);
+    alert(param);
 }

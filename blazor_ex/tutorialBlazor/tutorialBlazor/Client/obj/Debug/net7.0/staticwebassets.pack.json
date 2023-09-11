@@ -73,6 +73,10 @@
       "PackagePath": "staticwebassets\\index.html"
     },
     {
+      "Id": "C:\\blazorexercise\\tutorialBlazor\\tutorialBlazor\\Client\\wwwroot\\js\\test.js",
+      "PackagePath": "staticwebassets\\js\\test.js"
+    },
+    {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.tutorialBlazor.Client.props",
       "PackagePath": "build\\tutorialBlazor.Client.props"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OEkCadamdbcLqqzwPPnfpB3Iv8y7WHBuZNVXn+ihIAE=",
+  "Hash": "JnS6M3d0UNMWMbdjHVwRje9sWIUs23Jh+RQJIB9E65o=",
   "Source": "tutorialBlazor.Server",
   "BasePath": "_content/tutorialBlazor.Server",
   "Mode": "Default",
@@ -7218,6 +7218,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\blazorexercise\\tutorialBlazor\\tutorialBlazor\\Client\\wwwroot\\js\\test.js",
+      "SourceId": "tutorialBlazor.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\blazorexercise\\tutorialBlazor\\tutorialBlazor\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "js/test.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\test.js"
     }
   ]
 }

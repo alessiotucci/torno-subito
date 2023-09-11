@@ -31,6 +31,7 @@ namespace tutorialBlazor.Server.Controllers
             {
                 return NotFound(); // Return a 404 Not Found response if the history item is not found
             }
+            else
             return Ok(history);
 
         }

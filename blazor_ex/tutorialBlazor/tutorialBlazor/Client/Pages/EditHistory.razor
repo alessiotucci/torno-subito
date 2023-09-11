@@ -1,6 +1,9 @@
 ﻿@page "/edit"
-
+@page "/edit/{historyId}"
+@using System.Text.Json;
 @using tutorialBlazor.Shared;
+@using tutorialBlazor.Client.Helpers;
+@inject IJSRuntime javascript
 @inject HttpClient Http
 
 <style>
@@ -46,30 +49,52 @@
     <br />
     <input type="datetime" placeholder="Date and Time" />
 </div>
-
+@if (@OneHistory != null)
+{
 <div class="card">
     <h1>old history</h1>
-    <p>first value </p>
+    <p>first value: @OneHistory.Value1 </p>
     <br />
-    <p>second value </p>
+    <p>@OneHistory.Value2 </p>
     <br />
-    <p>operation </p>
+    <p>operation  @OneHistory.Operation</p>
     <br />
-    <p>result  </p>
+    <p>result  @OneHistory.Result</p>
     <br />
-    <p>date and time </p>
+    <p>date and time  @OneHistory.DateAndTime</p>
 </div>
+}
+else
+{
+        <div class="card">
+            <h1>THE API IS  NOT WORKING </h1>
+          
+        </div>
+    } 
 </div>
 @code {
     [Parameter]
-    public Guid HistoryId { get; set; }
+    public string HistoryId { get; set; }
+    // the paramater has to be string and not guid 
 
     private History OneHistory;
 
-    public async Task GetById(Guid id)
+    public async Task GetById(Guid HistoryId) // idk if  it was as string or as guid 
     {
-        var response = await Http.GetAsync($"api/History/{id}");
 
+        var response = await Http.GetAsync($"api/History/{HistoryId}");
+        if (response.IsSuccessStatusCode)
+        {
+            // OneHistory need to be assign;
+            OneHistory = await response.Content.ReadFromJsonAsync<History>();
+
+
+        }
+        else
+        {
+            // Handle the case where the history item is not found or the request fails
+            OneHistory = null;
+        }
         
 
     }

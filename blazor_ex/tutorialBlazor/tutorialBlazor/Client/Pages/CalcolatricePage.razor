@@ -33,6 +33,12 @@
     <button @onclick="() => AppendDigit(8)" type="button" class="calculator-button">8</button>
     <button @onclick="() => AppendDigit(9)" type="button" class="calculator-button">9</button>
   
+    <button class="btn btn-primary" @onclick="Calculation">Calculate</button>
+    <NavLink href="history">
+        <button class="history-button">
+            <img src="https://static.thenounproject.com/png/1563151-200.png" alt="Image Alt Text" />
+        </button>
+    </NavLink>
     <button @onclick="() => SetOperation('+')" type="button" class="operator btn btn-info">+</button>
     <button @onclick="() => SetOperation('-')" type="button" class="operator btn btn-info">-</button>
     <button @onclick="() => SetOperation('*')" type="button" class="operator btn btn-info">&times;</button>
@@ -56,13 +62,13 @@
 
 </select>
 
-
+<!--
 <button class="btn btn-primary" @onclick="Calculation">Calculate</button>
 <NavLink href="history">
     <button class="history-button">
         <img src="https://static.thenounproject.com/png/1563151-200.png" alt="Image Alt Text" />
     </button>
-</NavLink>
+</NavLink> -->
 <style>
     .calculator-button {
         background-color: #f0f0f0; /* Light gray background color */
