@@ -35,7 +35,7 @@
   
     <button class="btn btn-primary" @onclick="Calculation">Calculate</button>
     <NavLink href="history">
-        <button class="history-button">
+        <button class="calculator-button" id="history-button">
             <img src="https://static.thenounproject.com/png/1563151-200.png" alt="Image Alt Text" />
         </button>
     </NavLink>
@@ -135,13 +135,14 @@
             transform: scale(1.05); /* Slightly scale the button on hover */
         }
     /* Define a custom button style */
-    .history-button {
+    #history-button {
+        background-color: orangered;
     }
 
         /* Style the contained image */
-        .history-button img {
+        #history-button img {
             max-width: 20%; /* Ensure the image fits within the button */
-            max-height: 20%; /* Ensure the image fits within the button */
+            max-height: 60%; /* Ensure the image fits within the button */
             vertical-align: middle; /* Center the image vertically */
         }
 

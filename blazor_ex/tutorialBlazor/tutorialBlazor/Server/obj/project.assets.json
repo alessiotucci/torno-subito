@@ -1266,19 +1266,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Aless\\.nuget\\packages\\": {}
+    "C:\\Users\\Aless\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\blazorexercise\\tutorialBlazor\\tutorialBlazor\\Server\\tutorialBlazor.Server.csproj",
+      "projectUniqueName": "C:\\Users\\Aless\\OneDrive\\Desktop\\main-folder(all files inside)\\blazor_ex\\tutorialBlazor\\tutorialBlazor\\Server\\tutorialBlazor.Server.csproj",
       "projectName": "tutorialBlazor.Server",
-      "projectPath": "C:\\blazorexercise\\tutorialBlazor\\tutorialBlazor\\Server\\tutorialBlazor.Server.csproj",
+      "projectPath": "C:\\Users\\Aless\\OneDrive\\Desktop\\main-folder(all files inside)\\blazor_ex\\tutorialBlazor\\tutorialBlazor\\Server\\tutorialBlazor.Server.csproj",
       "packagesPath": "C:\\Users\\Aless\\.nuget\\packages\\",
-      "outputPath": "C:\\blazorexercise\\tutorialBlazor\\tutorialBlazor\\Server\\obj\\",
+      "outputPath": "C:\\Users\\Aless\\OneDrive\\Desktop\\main-folder(all files inside)\\blazor_ex\\tutorialBlazor\\tutorialBlazor\\Server\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Aless\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1286,18 +1291,19 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.305\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\blazorexercise\\tutorialBlazor\\tutorialBlazor\\Client\\tutorialBlazor.Client.csproj": {
-              "projectPath": "C:\\blazorexercise\\tutorialBlazor\\tutorialBlazor\\Client\\tutorialBlazor.Client.csproj"
+            "C:\\Users\\Aless\\OneDrive\\Desktop\\main-folder(all files inside)\\blazor_ex\\tutorialBlazor\\tutorialBlazor\\Client\\tutorialBlazor.Client.csproj": {
+              "projectPath": "C:\\Users\\Aless\\OneDrive\\Desktop\\main-folder(all files inside)\\blazor_ex\\tutorialBlazor\\tutorialBlazor\\Client\\tutorialBlazor.Client.csproj"
             },
-            "C:\\blazorexercise\\tutorialBlazor\\tutorialBlazor\\Shared\\tutorialBlazor.Shared.csproj": {
-              "projectPath": "C:\\blazorexercise\\tutorialBlazor\\tutorialBlazor\\Shared\\tutorialBlazor.Shared.csproj"
+            "C:\\Users\\Aless\\OneDrive\\Desktop\\main-folder(all files inside)\\blazor_ex\\tutorialBlazor\\tutorialBlazor\\Shared\\tutorialBlazor.Shared.csproj": {
+              "projectPath": "C:\\Users\\Aless\\OneDrive\\Desktop\\main-folder(all files inside)\\blazor_ex\\tutorialBlazor\\tutorialBlazor\\Shared\\tutorialBlazor.Shared.csproj"
             }
           }
         }
@@ -1336,7 +1342,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
       }
     }
   }

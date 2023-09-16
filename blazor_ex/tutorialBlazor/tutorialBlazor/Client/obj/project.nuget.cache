@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o30i0Zp8cMhJ6x3xKIzmyr/wZPHBPUaIHpgB55cUjglERJsL6RL4GQLjMn0HKuiD78jJ0xT/1tV7u1bBDXtJvA==",
+  "dgSpecHash": "hGo1dukr0ECiv24LgGs8aaDLItOqY471K8IzUQHm0HTeA3Vu0icVMeUB4KQHbWYF3H5regNiWISrdFbPw+U+ww==",
   "success": true,
-  "projectFilePath": "C:\\blazorexercise\\tutorialBlazor\\tutorialBlazor\\Client\\tutorialBlazor.Client.csproj",
+  "projectFilePath": "C:\\Users\\Aless\\OneDrive\\Desktop\\main-folder(all files inside)\\blazor_ex\\tutorialBlazor\\tutorialBlazor\\Client\\tutorialBlazor.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aless\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.5\\microsoft.aspnetcore.authorization.7.0.5.nupkg.sha512",
     "C:\\Users\\Aless\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.5\\microsoft.aspnetcore.components.7.0.5.nupkg.sha512",
@@ -31,7 +31,7 @@
     "C:\\Users\\Aless\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
     "C:\\Users\\Aless\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\Aless\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
-    "C:\\Users\\Aless\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.5\\microsoft.netcore.app.runtime.mono.browser-wasm.7.0.5.nupkg.sha512"
+    "C:\\Users\\Aless\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.10\\microsoft.netcore.app.runtime.mono.browser-wasm.7.0.10.nupkg.sha512"
   ],
   "logs": []
 }
