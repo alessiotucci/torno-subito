@@ -32,7 +32,7 @@ torno subito is a fund by European Union to help youth find occupation, I was ab
 | Agosto 04 | Code management con Git 1| [Entity Framework Codemy.pdf](https://github.com/alessiotucci/torno-subito/files/12280112/Entity.Framework.Codemy.pdf)|
 | Agosto 05 | Code management con Git 2|  [Entity Framework Codemy.pdf](https://github.com/alessiotucci/torno-subito/files/12280112/Entity.Framework.Codemy.pdf)|
 | Agosto 06 | Code management con Git 3|
-| Settembre 01 | Blazor Web Assembly 2| I missed this lectures because I was on a flight back to rome after vacation ![image](https://github.com/alessiotucci/torno-subito/assets/116757689/7e799ba4-b6cd-4286-b77a-a16e558a891c)|
+| Settembre 01 | Blazor Web Assembly 2| I missed this lectures because I was on a flight back to rome after vacation <img src="https://github.com/alessiotucci/torno-subito/assets/116757689/7e799ba4-b6cd-4286-b77a-a16e558a891c" width="250" alt="image">|
 | Settembre 02 | Blazor Web Assembly 3| I tried to catch up with other, I have build a small calculator in blazor [calculator](https://github.com/alessiotucci/torno-subito/tree/main/blazorexercise/tutorialBlazor) |
 | Settembre 08 | Blazor Web Assembly 4|still working on blazor calculator|
 | Settembre 09 | Blazor Web Assembly 5| still working on blazor calculator|
