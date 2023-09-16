@@ -5,18 +5,9 @@ torno subito is a fund by European Union to help youth find occupation, I was ab
 |---------------|--------------|------------|
 | Giugno 7: basic of html and CSS: we created a small login place using only html and CSS, we work in group of two. | [`progetto html coding a login page`](https://github.com/alessiotucci/torno-subito/tree/main/progetto%20html)| <img width="830" alt="image" src="https://github.com/alessiotucci/torno-subito/assets/116757689/38f9967f-9088-44fc-831c-8b552508ab03">
 |Giugno 8: using the framework of asp .net: we started to work with the framework, I still need a lot of practice to understand the core concept of this framework. | [`progetto asp .net`](https://github.com/alessiotucci/torno-subito/tree/main/esercizioAspNet.solutuion)|<img width="464" alt="image" src="https://github.com/alessiotucci/torno-subito/assets/116757689/b917450b-fe0b-4f1e-aa39-2a0cec7dea16">|
-| Giugno 10: Agile development |       lezione               |
-
-
-
---------------------------------------------------------
-
-
-
-| function name | Description | video utils |
-|---------------|--------------|------------|
+| Giugno 10: Agile development |       lezione               | ... |
 | Giugno 16 | Strumenti di coding, json | ...| 
-| Giugno 17 | Strumenti di team management |<img width="960" alt="image" src="https://github.com/alessiotucci/torno-subito/assets/116757689/3408683d-3238-48c5-990b-e66b95c612da">|
+| Giugno 17 | Strumenti di team management |<img width="460" alt="image" src="https://github.com/alessiotucci/torno-subito/assets/116757689/3408683d-3238-48c5-990b-e66b95c612da">|
 | Giugno 23 | Framework |
 | Giugno 24 | Stack Microsoft per web coding|
 | Giugno 30 | Javascript, HTML5, CSS3|
