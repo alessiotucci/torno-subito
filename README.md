@@ -1,6 +1,5 @@
-# torno-subito
-torno subito is a fund by European Union to help youth find occupation, I was able to join a bootcamp to expand my skills 
-
+# TORNO SUBITO
+## Torno Subito is an education and training programme promoted by the Regional Department for Training, Research, Schools and University.
 | day of the bootcamp | Description | Image |
 |---------------|--------------|------------|
 | Giugno 7: basic of html and CSS: we created a small login place using only html and CSS, we work in group of two. | [`progetto html coding a login page`](https://github.com/alessiotucci/torno-subito/tree/main/progetto%20html)| <img width="830" alt="image" src="https://github.com/alessiotucci/torno-subito/assets/116757689/38f9967f-9088-44fc-831c-8b552508ab03">
@@ -8,6 +7,14 @@ torno subito is a fund by European Union to help youth find occupation, I was ab
 | Giugno 10: Agile development |       lezione               | ... |
 | Giugno 16 | Strumenti di coding, json | ...| 
 | Giugno 17 | Strumenti di team management |<img width="830" alt="image" src="https://github.com/alessiotucci/torno-subito/assets/116757689/3408683d-3238-48c5-990b-e66b95c612da">|
+
+
+
+# WeekEnd Table of Content
+---
+
+| day of the bootcamp | Description | Image |
+|---------------------|-------------|------------|
 | Giugno 23 | Framework | <!-- <img src="link dell immagine " width="100" alt="image"> -->|
 | Giugno 24 | Stack Microsoft per web coding|  <!-- <img src="link dell immagine " width="100" alt="image"> -->|
 | Giugno 30 | Javascript, HTML5, CSS3| <!-- <img src="link dell immagine " width="100" alt="image"> -->|
