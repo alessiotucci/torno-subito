@@ -1,0 +1,15 @@
+C:\system design\system design\system design\bin\Debug\net7.0\system design.exe
+C:\system design\system design\system design\bin\Debug\net7.0\system design.deps.json
+C:\system design\system design\system design\bin\Debug\net7.0\system design.runtimeconfig.json
+C:\system design\system design\system design\bin\Debug\net7.0\system design.dll
+C:\system design\system design\system design\bin\Debug\net7.0\system design.pdb
+C:\system design\system design\system design\obj\Debug\net7.0\system design.csproj.AssemblyReference.cache
+C:\system design\system design\system design\obj\Debug\net7.0\system design.GeneratedMSBuildEditorConfig.editorconfig
+C:\system design\system design\system design\obj\Debug\net7.0\system design.AssemblyInfoInputs.cache
+C:\system design\system design\system design\obj\Debug\net7.0\system design.AssemblyInfo.cs
+C:\system design\system design\system design\obj\Debug\net7.0\system design.csproj.CoreCompileInputs.cache
+C:\system design\system design\system design\obj\Debug\net7.0\system design.dll
+C:\system design\system design\system design\obj\Debug\net7.0\refint\system design.dll
+C:\system design\system design\system design\obj\Debug\net7.0\system design.pdb
+C:\system design\system design\system design\obj\Debug\net7.0\system design.genruntimeconfig.cache
+C:\system design\system design\system design\obj\Debug\net7.0\ref\system design.dll
