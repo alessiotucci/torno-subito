@@ -34,10 +34,10 @@ torno subito is a fund by European Union to help youth find occupation, I was ab
 | Agosto 06 | Code management con Git 3|
 | Settembre 01 | Blazor Web Assembly 2| I missed this lectures because I was on a flight back to rome after vacation ![image](https://github.com/alessiotucci/torno-subito/assets/116757689/7e799ba4-b6cd-4286-b77a-a16e558a891c)|
 | Settembre 02 | Blazor Web Assembly 3| I tried to catch up with other, I have build a small calculator in blazor [calculator](https://github.com/alessiotucci/torno-subito/tree/main/blazorexercise/tutorialBlazor) |
-| Settembre 08 | Blazor Web Assembly 4|
-| Settembre 09 | Blazor Web Assembly 5|
-| Settembre 15 | Application Architecture 1|
-| Settembre 16 | Application Architecture 2|
+| Settembre 08 | Blazor Web Assembly 4|still working on blazor calculator|
+| Settembre 09 | Blazor Web Assembly 5| still working on blazor calculator|
+| Settembre 15 | Application Architecture 1| first lecture with Emanuele and learning about system Design principle|
+| Settembre 16 | Application Architecture 2| creating a Console log app to see  the solid principle in action  |
 | Settembre 22 | Application Architecture 3|
 | Settembre 23 | Application Architecture 4|
 | Settembre 29 | Microsoft Power Platform 365|
