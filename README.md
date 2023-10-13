@@ -42,3 +42,11 @@
 | Settembre 22 | Application Architecture 3| <!-- <img src="link dell immagine " width="100" alt="image"> -->|
 | Settembre 23 | Application Architecture 4| <!-- <img src="link dell immagine " width="100" alt="image"> -->|
 | Settembre 29 | Microsoft Power Platform 365| <!-- <img src="link dell immagine " width="100" alt="image"> -->|
+| Settembre 30 | Power Platform Data connector| <!-- <img src="link dell immagine " width="100" alt="image"> -->|
+| Ottobre  6   | Power Automate 1             | <!-- <img src="link dell immagine " width="100" alt="image"> -->|
+| Ottobre  7   | Power Automate 2             | <!-- <img src="link dell immagine " width="100" alt="image"> -->|
+| Ottobre 13   | Power Automate Trigger       | <!-- <img src="link dell immagine " width="100" alt="image"> -->|
+| Ottobre 14   | Power Automate Connector     | <!-- <img src="link dell immagine " width="100" alt="image"> -->|
+| Ottobre 20   | Power BI 1                   | <!-- <img src="link dell immagine " width="100" alt="image"> -->|
+| Ottobre 21   | Power BI 2                   | <!-- <img src="link dell immagine " width="100" alt="image"> -->|
+
