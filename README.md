@@ -49,4 +49,9 @@
 | Ottobre 14   | Power Automate Connector     | <!-- <img src="link dell immagine " width="100" alt="image"> -->|
 | Ottobre 20   | Power BI 1                   | <!-- <img src="link dell immagine " width="100" alt="image"> -->|
 | Ottobre 21   | Power BI 2                   | <!-- <img src="link dell immagine " width="100" alt="image"> -->|
+| Novembre 26 Domenica  | Cloud certification camp     | <!-- <img src="link dell immagine " width="100" alt="image"> -->|
+| Novembre 27 Lunedi    | Cloud certification camp     | <!-- <img src="link dell immagine " width="100" alt="image"> -->|
+| Novembre 28 Martedi   | Cloud certificaton camp      | <!-- <img src="link dell immagine " width="100" alt="image"> -->|
+| Novembre 29 Mercoledi | Cloud certification camp     | <!-- <img src="link dell immagine " width="100" alt="image"> -->|
+
 
